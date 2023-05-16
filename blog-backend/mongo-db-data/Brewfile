@@ -1,0 +1,8 @@
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "mongodb/brew"
+brew "mingw-w64"
+cask "anaconda"
+cask "mongodb-compass"
